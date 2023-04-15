@@ -13,6 +13,6 @@ GNU Emacs文本编辑器的大部分是用名为Emacs Lisp的编程语言编写�
 - [Lisp History（lisp的历史）](./1.2-Lisp_History（lisp的历史）.md)  
 - [Conventions（一些常规的的东西）](./1.3-Conventions（一些常规的东西）.md)  
 - [Version Information（版本信息）](./1.4-Version_Information（版本信息）.md)  
-- [Acknowledgments（致谢）](./1.5-Acknowledgment（致谢）.md)
+- [Acknowledgments（致谢）](./1.5-Acknowledgment（致谢）.md)  
 ****************************************************************
 下一章：[Lisp Data Types（Lisp 数据类型）](../第二章Lisp_Data_Types/Lisp_Data_Types（Lisp 数据类型）.md)
