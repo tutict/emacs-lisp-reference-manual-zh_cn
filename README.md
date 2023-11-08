@@ -1,4 +1,4 @@
-# emacs-lisp-reference-manual中文版
+# emacs-lisp-reference-manual中文版           [进入目录](https://github.com/tutict/emacs-lisp-reference-manual-zh_cn/blob/main/%E7%BF%BB%E8%AF%91/%E7%9B%AE%E5%BD%95.md)
 #### 前言  
 因为没有找到完整的中文翻译，决定自己整一个仓库，用于emacs的学习，因本人英语水平有限，用chatGPT-4进行翻译，本人负责中文校对与文档排版。  
 
